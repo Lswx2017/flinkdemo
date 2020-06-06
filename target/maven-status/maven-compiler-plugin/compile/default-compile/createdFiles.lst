@@ -1,0 +1,6 @@
+flinktest\BatchJob.class
+flinktest\SocketWindowWordCount$1.class
+flinktest\StreamingJob.class
+flinktest\SocketWindowWordCount$WordWithCount.class
+flinktest\SocketWindowWordCount.class
+flinktest\SocketWindowWordCount$2.class
